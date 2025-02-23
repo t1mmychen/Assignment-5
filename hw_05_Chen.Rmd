@@ -70,7 +70,7 @@ Class pulvinar quis dolor et neque. Tempus primis sed, urna, egestas. Massa laor
 Vel finibus eu ut litora a etiam quam sit tempus class. Congue sit tempor felis. Nec augue egestas, et neque tempor odio ante, luctus eros eu curabitur. Parturient, litora amet sed euismod tristique duis non leo. Vitae non nibh, vestibulum montes. Dis potenti pharetra eleifend non convallis turpis mollis cursus? In maecenas ornare viverra arcu conubia ridiculus pretium malesuada. Scelerisque, mi ut nisi magna taciti phasellus est metus sit malesuada sodales aliquam a. Nascetur vivamus aptent sit vitae at venenatis tincidunt semper. 
 
 \begin{gather}
-  \text y_t = a + bx_{t-1} + e_t) \\
+  \text y_t = a + bx_{t-1} + e_t \\
   \text e_t \sim N(0, \sigma^2)
 \end{gather}
 
